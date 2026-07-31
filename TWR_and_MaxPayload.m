@@ -96,7 +96,7 @@ for i = 1:numMaterials
     Total_Cost_USD(i)         = round(totalCost, 4);
 end
 
-%% 4. DISPLAY RESULTS TABLE
+%% Display the result table
 summaryTable = table(Material, Single_Arm_Mass_kg, Total_Arm_Mass_kg, Empty_Mass_kg, ...
                      TWR_Unloaded, Max_Payload, Total_Arm_Cost_USD, Total_Cost_USD);
 
