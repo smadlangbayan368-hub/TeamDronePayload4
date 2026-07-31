@@ -8,7 +8,7 @@ gravity       = 9.81;                 % Acceleration due to gravity (m/s^2)
 thrust        = 39.24;                % Total thrust in Newtons (1 kg of thrust = 9.81 N) * 4 motors
 targetTWR     = 2.0;                  % Target Thrust-to-Weight Ratio
 csvFile       = 'Materials.csv';       % Materials file (cost units: USD/kg)
-%stlFile       = 'TriangleArm.STL';   % Change this to your exact STL file name
+%stlFile       = 'TriangleArm.STL';   % Courtesy of Zeke
 stlFile       = 'CircleArm.STL';
 
 %% Extract the volume from the STL (value is close enough)
