@@ -6,10 +6,8 @@ This project challenges a team into applying core concepts of physics and engine
 Our team approached this project as a learning opportunity to better our skills with the suggested. So, each team member proposed and designed at least one drone arm. As a result of this we ended up with 4 comparable drone arms. Being the Triangle Arm, Circle Arm, Beam Arm, and Lattice Arm designed by each member. Afterwards we coded a MatLab program using their built in Partial Differential Equation Toolbox. Allowing us to gather the results necessary to fulfill the project.
 
 | Triangle Arm  | Circle Arm |
-| --------------- || ------------ |
-| <img alt="image" src="https://github.com/user-attachments/assets/8af5bb82-9b70-4013-b9d4-30a2bd8f94ce" /> | <img width="644" height="553" alt="image" src="https://github.com/user-attachments/assets/42904b31-c0d9-4db9-8bdf-7cd5201d1a37" /> |
-| Beam Arm  | Lattice Arm |
-| <img width="1821" height="736" alt="image" src="https://github.com/user-attachments/assets/de3d7c23-5b73-475b-ae90-aa5c966e81e5" /> | <img width="1026" height="1025" alt="image" src="https://github.com/user-attachments/assets/8c0b5b57-ee52-4497-a420-c4e5ec57c353" /> |
+| Testing |
+
 
 # Project Solution Instructions
 The following are steps on how to run the main program of this project being, "Full_Run_Fin.mlx".  
