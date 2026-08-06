@@ -12,7 +12,7 @@ Please explain step-by-step how to setup and run your project solution. Include 
 Add a picture, plot, animation, GIF, or table to demonstrate the expected result or output of your project solution.
 
 # Reference
-Add reference papers, data, or supporting materials that have been used, if any.
+[Introduction to Finite Element Analysis with MATLAB] (https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)
 
 # Contact (optional)
 Provide the best e-mail at which to contact you and your team in the event that you are chosen to receive a prize.
@@ -20,24 +20,21 @@ Provide the best e-mail at which to contact you and your team in the event that 
 Email: rdnguyen.work@gmail.com
 
 
-#Contrubutions \
-(WIP)\
+# Contributions
+(WIP)
 
 Designers: Ryan Nguyen, Ezekiel Savage, Sheryl\
 Coders: Ryan Nguyen, Ezekiel Savage\
-Hand calculations: Sheryl, Peter Yang\
+Hand calculations: Sheryl, Peter Yang
 
 Ryan Nguyen\
   -Designed and modeled beam drone arm\
-  -Programmed the "Full_Run_Fin.mlx" file\
-    -Crated sections of code responsible for cost \
-    -Organized code to allow the display of all results\
-
+  -Made the "Full_Run_Fin.mlx" program
 
 Sheryl\
   -Designed and modeled circular drone arm\
   -Fine tuned FEA results\
-  -Performed hand calculation checks for results\
+  -Performed hand calculation checks for results
   
 
 Ezekiel Savage\
@@ -49,4 +46,4 @@ Ezekiel Savage\
 Peter Yang\
   -Designed and modeled lattice drone arm\
   -Performed hand calculation checks for results\
-  -Created program for weight check of drone arms\
+  -Created program for weight check of drone arms
