@@ -1,6 +1,6 @@
-# Solution to Classroom Challenge Project <'Team 4'> <'Drone Payload Capacity and Structural Design Analysis'>
+# Team 4's Solution to the Drone Payload Capacity and Structural Design Analysis Problem
 
-This was a challenge project where a team of 4 designs and performs finite element analysis (FEA) for 2 drone arms. Allowing for participants to perform real world problem solving from the core concepts they have learned about physics and engineering.
+This project challenges a team into applying core concepts of physics and engineering to the real-world problem of maximizing the payload capacity of a quadcopter. At the end of this project the team will have practiced designing drone arms and 3D modeling them, programing with MATLAB, and propose a final drone arm design through quantitative and cost analysis.
 
 # Project Details
 Briefly describe your team's approach to the project and how you implemented your solution.
@@ -12,11 +12,12 @@ Please explain step-by-step how to setup and run your project solution. Include 
 Add a picture, plot, animation, GIF, or table to demonstrate the expected result or output of your project solution.
 
 # Reference
-[Introduction to Finite Element Analysis with MATLAB] (https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)
+-[Introduction to Finite Element Analysis in MATLAB](https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)
+-[Example Finite Element Analysis Workflow](https://www.mathworks.com/help/pde/ug/deflection-analysis-of-bracket-femodel.html)
+-
+
 
 # Contact (optional)
-Provide the best e-mail at which to contact you and your team in the event that you are chosen to receive a prize.
-
 Email: rdnguyen.work@gmail.com
 
 
