@@ -33,6 +33,8 @@ If you are reading this section then a problem has occurred with the "Full_Run_F
 4. You should now be able to view the results that our team got from running the "Full_Run_Fin.mlx" program.
 
 # Results
+Please download the repository and open the "Final_Report.pdf" to view the report.
+
 After running "Full_Run_Fin.mlx" and letting it finish. It will give the following result table:
 
 <img width="1406" height="1085" alt="image" src="https://github.com/user-attachments/assets/9e7bf3fc-61b9-4159-a4bd-504a5ebc924b" />
@@ -43,7 +45,7 @@ After running "Full_Run_Fin.mlx" and letting it finish. It will give the followi
 -
 
 
-# Contact (optional)
+# Contact 
 Email: rdnguyen.work@gmail.com
 
 
