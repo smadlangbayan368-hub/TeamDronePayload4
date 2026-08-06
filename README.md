@@ -7,8 +7,7 @@ Our team approached this project as a learning opportunity to better our skills 
 
 | Header 1 | Header 2 |
 | :---: | :---: |
-| <img width="644" height="553" alt="SLDWORKS_ej1l8cpXoL" src="https://github.com/user-attachments/assets/e6ee151e-3aa9-4179-9eb6-90fba3f33f28" /> | <img width="644" height="553" alt="chrome_BmiyGrPS0T" src="https://github.com/user-attachments/assets/2ee37e7d-fa14-442a-ac18-3d9ac9a0b1b4" />
- |
+| <img width="644" height="553" alt="SLDWORKS_ej1l8cpXoL" src="https://github.com/user-attachments/assets/e6ee151e-3aa9-4179-9eb6-90fba3f33f28" /> | <img width="644" height="553" alt="chrome_BmiyGrPS0T" src="https://github.com/user-attachments/assets/2ee37e7d-fa14-442a-ac18-3d9ac9a0b1b4" /> |
 
 
 
