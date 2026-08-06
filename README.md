@@ -3,11 +3,17 @@
 This project challenges a team into applying core concepts of physics and engineering to the real-world problem of maximizing the payload capacity of a quadcopter. At the end of this project the team will have practiced designing drone arms and 3D modeling them, programing with MATLAB, and propose a final drone arm design through quantitative and cost analysis.
 
 # Project Details
-Briefly describe your team's approach to the project and how you implemented your solution.
+Our team approached this project as a learning opportunity to better our skills with the suggested. So, each team member proposed and designed at least one drone arm. As a result of this we ended up with 4 comparable drone arms. Being the Triangle Arm, Circle Arm, Beam Arm, and Lattice Arm designed by each member. Afterwards we coded a MatLab program using their built in Partial Differential Equation Toolbox. Allowing us to gather the results necessary to fulfill the project.
+| Triangle Arm || Circle Arm |
+||||
+| Beam Arm || Lattice Arm |
+| <img width="1821" height="736" alt="image" src="https://github.com/user-attachments/assets/d54f144c-6fc9-4e41-b9c6-4e79b1b5d1c5" /> |||
 
 # Project Solution Instructions
-## Steps:
-  note: In case of an error please scroll down to backup steps.  
+The following are steps on how to run the main program of this project being, "Full_Run_Fin.mlx".  
+In the case that unexpected problems occur when following the Steps section and troubleshooting isn't fixing it. Please refer to the Backup Steps section to view the results.  
+Otherwise Backup Steps can be skipped
+## Steps:  
 1. Open "Full_Run_Fin.mlx" in MATLAB
 2. Click the run button and wait. (It takes a while to finish running)
 3. While waiting you disable synchronous scrolling and scroll down to the bottom of the code
