@@ -23,7 +23,7 @@ If you are reading this section then a problem has occurred with the "Full_Run_F
 # Results
 After running "Full_Run_Fin.mlx" and letting it finish. It will give the following result table:
 
-<img width="1232" height="803" alt="image" src="https://github.com/user-attachments/assets/b4b732ea-62ff-40d7-b601-7a2fb7048f9f" />
+<img width="1276" height="1102" alt="image" src="https://github.com/user-attachments/assets/73f9cd74-e187-4091-afd7-97d1373d223b" />
 
 
 
