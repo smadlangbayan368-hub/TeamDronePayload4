@@ -43,7 +43,7 @@ Sheryl\
 Ezekiel Savage\
   -Designed and modeled lattice type drone arm\
   -Fine tuned FEA results\
-    -Created a program for fast FEAs, 'checkDroneArm.m'\
+    -Created a program for fast FEAs, 'checkDroneArm.m'
   
 
 Peter Yang\
