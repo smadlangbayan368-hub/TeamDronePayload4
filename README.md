@@ -1,6 +1,9 @@
 # Team 4's Solution to the Drone Payload Capacity and Structural Design Analysis Problem
-
 This project challenges a team into applying core concepts of physics and engineering to the real-world problem of maximizing the payload capacity of a quadcopter. At the end of this project the team will have practiced designing drone arms and 3D modeling them, programing with MATLAB, and propose a final drone arm design through quantitative and cost analysis.
+
+#Objective
+Design at least 2 drone arms that can carry a 0.5 Kg payload at minimum, has a 2:1 thrust-to-weight ratio (TWR), a factor safety of at least 1.5. After doing so, produce a final report from the results that were gathered for the drone arms and give a final design recommendation with justification from analysis of results. 
+
 
 # Project Details
 Our team approached this project as a learning opportunity to better our skills with the suggested. So, each team member proposed and designed at least one drone arm. As a result of this we ended up with 4 comparable drone arms. Being the Triangle Arm, Circle Arm, Beam Arm, and Lattice Arm designed by each member. Afterwards we coded a MatLab program using their built in Partial Differential Equation Toolbox. Allowing us to gather the results necessary to fulfill the project.
@@ -32,9 +35,7 @@ If you are reading this section then a problem has occurred with the "Full_Run_F
 # Results
 After running "Full_Run_Fin.mlx" and letting it finish. It will give the following result table:
 
-<img width="1276" height="1102" alt="image" src="https://github.com/user-attachments/assets/73f9cd74-e187-4091-afd7-97d1373d223b" />
-
-
+<img width="1406" height="1085" alt="image" src="https://github.com/user-attachments/assets/9e7bf3fc-61b9-4159-a4bd-504a5ebc924b" />
 
 # Reference
 -[Introduction to Finite Element Analysis in MATLAB](https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)  
