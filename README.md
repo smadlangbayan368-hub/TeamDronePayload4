@@ -9,7 +9,7 @@ Our team approached this project as a learning opportunity to better our skills 
 | :---: | :---: |
 | <img width="644" height="553" alt="SLDWORKS_ej1l8cpXoL" src="https://github.com/user-attachments/assets/e6ee151e-3aa9-4179-9eb6-90fba3f33f28" /> | <img width="644" height="553" alt="chrome_BmiyGrPS0T" src="https://github.com/user-attachments/assets/2ee37e7d-fa14-442a-ac18-3d9ac9a0b1b4" /> |
 | Beam Arm | Lattice Arm |
-| <img width="644" height="553" alt="SLDWORKS_cmm1NGz5MP" src="https://github.com/user-attachments/assets/c11d07bc-8ec6-46e5-ac18-c020265814e8" /> | <img width="644" height="553" alt="SLDWORKS_YRguiKzV26" src="https://github.com/user-attachments/assets/b860d216-5403-475a-aea0-33df35c035d4" /> |
+| <img width="644" height="553" alt="image" src="https://github.com/user-attachments/assets/6b5db0de-dcc7-4c61-82a5-771b1f55a37a" /> | <img width="644" height="553" alt="SLDWORKS_YRguiKzV26" src="https://github.com/user-attachments/assets/b860d216-5403-475a-aea0-33df35c035d4" /> |
 
 
 # Project Solution Instructions
