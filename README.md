@@ -92,5 +92,5 @@ Peter Yang
   -  Writing report\
     -  Wrote section on lattice arm\
     -  Provided pictures/documentation of lattice arm
-  -  Wrote a program to perform FEA on Lattice Arm
+  -  Wrote a program to perform FEA on Lattice Arm  
     -  Go to checks > Peter's Functions
