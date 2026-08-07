@@ -36,8 +36,9 @@ If you are reading this section then a problem has occurred with the "Full_Run_F
 4. You should now be able to view the results that our team got from running the "Full_Run_Fin.mlx" program.
 
 # Results
-Please download the repository and open the "Final_Report.pdf" to view the report.
+Please download the repository and open the "Final Report.pdf" to view the report.
 
+Note: The thrust to weight ratio (TWR) results are locked to 2 in order to maximize payload capacity. 
 After running "Full_Run_Fin.mlx" and letting it finish. It will give the following result table:
 
 <img width="1406" height="1085" alt="image" src="https://github.com/user-attachments/assets/9e7bf3fc-61b9-4159-a4bd-504a5ebc924b" />
@@ -46,15 +47,13 @@ After running "Full_Run_Fin.mlx" and letting it finish. It will give the followi
 -[Introduction to Finite Element Analysis in MATLAB](https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)  
 -[Example Finite Element Analysis Workflow](https://www.mathworks.com/help/pde/ug/deflection-analysis-of-bracket-femodel.html)  
 -[Research Paper "Stress and vibration analysis of a drone"](https://iopscience.iop.org/article/10.1088/1757-899X/1009/1/012059/pdf)
-
+-[Real world Payload Data](https://www.jouav.com/blog/drone-payload.html)
 
 # Contact 
 Email: rdnguyen.work@gmail.com
 
 
 # Contributions
-(WIP)
-
 Ryan Nguyen
   -  Designed and modeled the beam drone arm
   -  Wrote "Full_Run_Fin.mlx" program
