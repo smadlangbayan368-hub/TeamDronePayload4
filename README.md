@@ -61,7 +61,7 @@ Ryan Nguyen\
   -Wrote "Full_Run_Fin.mlx" program\
   -Wrote "BackupProgram.mlx" program\
   -Writing report\
-    -Wrote section on beam arm and cost analysis\
+                  -Wrote section on beam arm and cost analysis\
     -Formatting of report\
     -Graphs and research of payloads  
 
