@@ -40,6 +40,8 @@ Our team approached this project as a learning opportunity to better our skills 
 
 
 # Project Solution Instructions
+**!Note: The check folder contains tools our team used tools for this project as documentation. They are not intended to work without tinkering on the user's end and are not required for the main program!**  
+
 The following are steps on how to run the main program of this project being, "Full_Run_Fin.mlx".  
 In the case that unexpected problems occur when following the Steps section and troubleshooting isn't fixing it. Please refer to the Backup Steps section to view the results. Otherwise Backup Steps can be skipped
 ## Steps:  
