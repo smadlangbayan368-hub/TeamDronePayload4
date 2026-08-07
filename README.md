@@ -22,7 +22,7 @@ The following are steps on how to run the main program of this project being, "F
 In the case that unexpected problems occur when following the Steps section and troubleshooting isn't fixing it. Please refer to the Backup Steps section to view the results. Otherwise Backup Steps can be skipped
 ## Steps:  
 [Video Instructions](https://youtu.be/7ymWV30FWfM)
-1. Download the repository/zip file
+1. Download the repository/zip file (Click the Green button arrow drop down and hit download zip)
 2. Right-click the zip and click extract all then, extract
 3. A new window should open up. Click the folder in the window and double-click "Full_Run_Fin.mlx"
 4. Click the run button and wait. (It takes about 4-5mins)
