@@ -10,8 +10,10 @@ Design at least 2 drone arms with the following criteria:
 -  Factor safety of at least 1.5
 
  Produce a final report from the results that were gathered for the drone arms  
-  -  Including a final design recommendation with justification from analysis of results. 
+  -  Including a final design recommendation with justification from analysis of results.   
 
+Bonus Goal (Personal):
+-  Design the drone arm such that it can carry a commercially available payload
 
 # Project Details
 ## Assumptions 
