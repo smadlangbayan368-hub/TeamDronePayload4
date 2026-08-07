@@ -1,12 +1,13 @@
 # Team 4's Solution to the Drone Payload Capacity and Structural Design Analysis Problem
-This project challenges a team into applying core concepts of physics and engineering to the real-world problem of maximizing the payload capacity of a quadcopter. At the end of this project the team will have practiced designing drone arms and 3D modeling them, programing with MATLAB, and propose a final drone arm design through quantitative and cost analysis.
+This project challenges a team into applying core concepts of physics and engineering to the real-world problem of maximizing the payload capacity of a quadcopter. At the end of this project the team will have practiced designing drone arms and 3D modeling them, programing with MATLAB, and propose a final drone arm design through quantitative and cost analysis.\
+Please refer to 'DroneDesign_StudentProjectTemplate_Preview.pdf' and [Link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Drone%20Payload%20Capacity%20and%20Structural%20Design%20Analysis) for more specifics about assumptions and requirements.
 
 # Objective
 Design at least 2 drone arms that can carry a 0.5 Kg payload at minimum, has a 2:1 thrust-to-weight ratio (TWR), a factor safety of at least 1.5. After doing so, produce a final report from the results that were gathered for the drone arms and give a final design recommendation with justification from analysis of results. 
 
 
 # Project Details
-Our team approached this project as a learning opportunity to better our skills with the suggested. So, each team member proposed and designed at least one drone arm. As a result of this we ended up with 4 comparable drone arms. Being the Triangle Arm, Circle Arm, Beam Arm, and Lattice Arm designed by each member. Afterwards we coded a MatLab program using their built in Partial Differential Equation Toolbox. Allowing us to gather the results necessary to fulfill the project.
+Our team approached this project as a learning opportunity to better our skills with the suggested. So, each team member proposed and designed at least one drone arm. As a result of this we ended up with 4 comparable drone arms. Being the Triangle Arm, Circle Arm, Beam Arm, and Lattice Arm designed by each member. Afterwards we coded a MATLAB program using their built in Partial Differential Equation Toolbox. Allowing us to gather the results necessary to fulfill the project.
 
 | Triangle Arm | Circle Arm |
 | :---: | :---: |
