@@ -18,7 +18,8 @@ Design at least 2 drone arms with the following criteria:
 -  Initial drone weight = 1Kg  
     -Composes the motors, propellors, electronics, main body, etc.) (Refer above for more details)  
 -  Thrust to Weight Ratio = 2:1 (This value is locked to this to ensure maximization of payload weight)  
--  Factor of Safety >= 1.5 (Suggested by problem documentation. Also the standard)  
+-  Factor of Safety >= 1.5 (Suggested by problem documentation. Also the standard)
+-  Motor(65g) and propeller weight(10g) reduce total force at motor holes to 9.07N 
 
 ## Datasets  
 -  'droneArmMaterials.mat' (Given in Repo and loads the data of materials that were specified in the problem)  
