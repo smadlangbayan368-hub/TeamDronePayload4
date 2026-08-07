@@ -20,13 +20,17 @@ The following are steps on how to run the main program of this project being, "F
 In the case that unexpected problems occur when following the Steps section and troubleshooting isn't fixing it. Please refer to the Backup Steps section to view the results.  
 Otherwise Backup Steps can be skipped
 ## Steps:  
-1. Open "Full_Run_Fin.mlx" in MATLAB
-2. Click the run button and wait. (It takes a while to finish running)
-3. While waiting you disable synchronous scrolling and scroll down to the bottom of the code
-4. After it has finished running you can view the results with the PDE results visualizer.
+[Video Instructions](https://youtu.be/7ymWV30FWfM)
+1. Download the repository/zip file
+2. Right-click the zip and click extract all then, extract
+3. A new window should open up. Click the folder in the window and double-click "Full_Run_Fin.mlx"
+4. Click the run button and wait. (It takes about 4-5mins)
+5. While waiting you should disable synchronous scrolling by right-clicking the right side and hitting "Disable synchronous scrolling" and scroll down to the bottom of both sides
+6. After it has finished running you can view the results with the PDE results visualizer.
 
 ### Backup Steps
 If you are reading this section then a problem has occurred with the "Full_Run_Fin.mlx" program. If this is not the case skip this section. Otherwise this section gives instructions on how to view the results with the data our team got from running this program.  
+[Video Instructions](https://youtu.be/FH9hUVbYAe8)  
 1. Download the following file (~84Mb) : [Link](https://drive.google.com/file/d/1Xmdh4RBVJ9Zax5G-46Jol3pIxfLdXrC2/view?usp=sharing)
 2. Put the downloaded file into the Backup folder from the download. (or download the backup folder only and put the mat file in there).  
 3. Open the backup program and run it.
@@ -52,27 +56,36 @@ Email: rdnguyen.work@gmail.com
 # Contributions
 (WIP)
 
-Designers: Ryan Nguyen, Ezekiel Savage, Sheryl\
-Coders: Ryan Nguyen, Ezekiel Savage\
-Hand calculations: Sheryl, Peter Yang
-
 Ryan Nguyen\
-  -Designed and modeled beam drone arm\
-  -Made the "Full_Run_Fin.mlx" program
+  -Designed and modeled the beam drone arm\
+  -Wrote "Full_Run_Fin.mlx" program
+  -Writing report
+    -Wrote section on beam arm and cost analysis
+    -Formatting of report
+    -Graphs and research of payloads
 
 Sheryl\
   -Designed and modeled circular drone arm\
   -Fine tuned FEA results\
   -Performed hand calculation checks for results
+  -Writing report
+    -Wrote section on circular arm, goals and objectives, analysis, and conclusion
+    -Provided pictures/documentation of circular arm
   
 
 Ezekiel Savage\
-  -Designed and modeled lattice type drone arm\
+  -Designed and modeled triangle arm\
   -Fine tuned FEA results\
     -Created a function to perform fast FEAs, 'checkDroneArm.m'
+   -Writing report
+    -Wrote section on triangle arm
+    -Provided pictures/documentation of triangular arm
   
 
 Peter Yang\
-  -Designed and modeled lattice drone arm\
+  -Designed and modeled lattice arm\
   -Performed hand calculation checks for results\
-  -Created program for weight check of drone arms
+   - Documentation/DorneTeam4_Hand_Calculations.pdf
+  -Writing report
+    -Wrote section on lattice arm
+    -Provided pictures/documentation of lattice arm
