@@ -73,7 +73,7 @@ Sheryl
     -  See "handCalculationExample.pdf" in Documentation
   -  Writing report\
     -  Wrote section on circular arm, goals and objectives, analysis, and conclusion\
-    -  Provided pictures/documentation of Circular Arm
+    -  Provided pictures/documentation of Circular Arm  
     -  Formatting  
   
 
