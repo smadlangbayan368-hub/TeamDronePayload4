@@ -57,7 +57,7 @@ Email: rdnguyen.work@gmail.com
 
 # Contributions
 Ryan Nguyen
-  -  Designed and modeled the beam drone arm
+  -  Designed and modeled the Beam Arm
   -  Wrote "Full_Run_Fin.mlx" program
   -  Wrote "BackupProgram.mlx" program
   -  Writing report\
@@ -66,32 +66,32 @@ Ryan Nguyen
     -  Graphs and research of payloads  
 
 Sheryl
-  -  Designed and modeled circular drone arm
+  -  Designed and modeled Circular Arm
   -  Fine tuned FEA results\
     -  Wrote "TWR_and_MaxPayload.m" a program to gather FEA, TWR, and cost results
   -  Performed hand calculation checks for results\
     -  See "handCalculationExample.pdf" in Documentation
   -  Writing report\
     -  Wrote section on circular arm, goals and objectives, analysis, and conclusion\
-    -  Provided pictures/documentation of circular arm  
+    -  Provided pictures/documentation of Circular Arm  
   
 
 Ezekiel Savage
-  -  Designed and modeled triangle arm
+  -  Designed and modeled Triangle Arm
   -  Fine tuned FEA results\
     -  Wrote 'checkDroneArm.m' a program to perform quick FEAs  
     -  Perform sanity checks for FEA results  
    -  Writing report\
-     -  Wrote section on triangle arm\
-     -  Provided pictures/documentation of triangular arm  
+     -  Wrote section on Triangle Arm\
+     -  Provided pictures/documentation of Triangular Arm  
   
 
 Peter Yang
-  -  Designed and modeled lattice arm
+  -  Designed and modeled Lattice Arm  
   -  Performed hand calculation checks for results\
     -  See DorneTeam4_Hand_Calculations.pdf in Documentation folder
   -  Writing report\
-    -  Wrote section on lattice arm\
-    -  Provided pictures/documentation of lattice arm
+    -  Wrote section on Lattice Arm\
+    -  Provided pictures/documentation of Lattice Arm
   -  Wrote a program to perform FEA on Lattice Arm  
     -  Go to checks > Peter's Functions
