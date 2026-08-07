@@ -8,8 +8,8 @@ Design at least 2 drone arms with the following criteria:
 -  0.5 Kg payload at minimum
 -  2:1 thrust-to-weight ratio (TWR) at minimum
 -  Factor safety of at least 1.5  
- Produce a final report from the results that were gathered for the drone arms  
-  -  Including final design recommendation with justification from analysis of results. 
+Produce a final report from the results that were gathered for the drone arms  
+  -Including final design recommendation with justification from analysis of results. 
 
 
 # Project Details
