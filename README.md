@@ -8,6 +8,12 @@ Design at least 2 drone arms that can carry a 0.5 Kg payload at minimum, has a 2
 
 
 # Project Details
+## Assumptions and datasets
+-  Initial drone weight = 1Kg
+-    Composes the motors, propellors, electronics, main body, etc.) (Refer to link above for more details)
+-      Please refer to 'DroneDesign_StudentProjectTemplate_Preview.pdf' located in the Documentations folder and [Link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Drone%20Payload%20Capacity%20and%20Structural%20Design%20Analysis) for more specifics about assumptions and requirements.
+
+## Approach
 Our team approached this project as a learning opportunity to better our skills with the suggested. So, each team member proposed and designed at least one drone arm. As a result of this we ended up with 4 comparable drone arms. Being the Triangle Arm, Circle Arm, Beam Arm, and Lattice Arm designed by each member. Afterwards we coded a MATLAB program using their built in Partial Differential Equation Toolbox. Allowing us to gather the results necessary to fulfill the project.
 
 | Triangle Arm | Circle Arm |
