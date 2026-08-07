@@ -90,5 +90,5 @@ Peter Yang\
   -  Performed hand calculation checks for results
   -  See DorneTeam4_Hand_Calculations.pdf in Documentation folder
   -  Writing report
-  -    Wrote section on lattice arm
-  -    Provided pictures/documentation of lattice arm  
+    -  Wrote section on lattice arm
+    -  Provided pictures/documentation of lattice arm  
