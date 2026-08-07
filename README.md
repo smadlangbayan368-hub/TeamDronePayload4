@@ -42,7 +42,7 @@ After running "Full_Run_Fin.mlx" and letting it finish. It will give the followi
 # Reference
 -[Introduction to Finite Element Analysis in MATLAB](https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)  
 -[Example Finite Element Analysis Workflow](https://www.mathworks.com/help/pde/ug/deflection-analysis-of-bracket-femodel.html)
--
+-[Research Paper "Stress and vibration analysis of a drone"](https://iopscience.iop.org/article/10.1088/1757-899X/1009/1/012059/pdf)
 
 
 # Contact 
