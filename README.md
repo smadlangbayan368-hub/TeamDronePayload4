@@ -89,4 +89,6 @@ Peter Yang
     -  See DorneTeam4_Hand_Calculations.pdf in Documentation folder
   -  Writing report\
     -  Wrote section on lattice arm\
-    -  Provided pictures/documentation of lattice arm  
+    -  Provided pictures/documentation of lattice arm
+  -  Wrote a program to perform FEA on Lattice Arm
+    -  Go to checks > Peter's Functions
