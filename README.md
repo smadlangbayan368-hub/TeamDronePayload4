@@ -60,7 +60,7 @@ Ryan Nguyen
   -  Designed and modeled the beam drone arm
   -  Wrote "Full_Run_Fin.mlx" program
   -  Wrote "BackupProgram.mlx" program
-  -  Writing report
+  -  Writing report\
     -  Wrote section on beam arm and cost analysis\
     -  Formatting\
     -  Graphs and research of payloads  
@@ -87,8 +87,8 @@ Ezekiel Savage
 
 Peter Yang
   -  Designed and modeled lattice arm
-  -  Performed hand calculation checks for results
-  -  See DorneTeam4_Hand_Calculations.pdf in Documentation folder
+  -  Performed hand calculation checks for results\
+    -  See DorneTeam4_Hand_Calculations.pdf in Documentation folder
   -  Writing report\
     -  Wrote section on lattice arm\
     -  Provided pictures/documentation of lattice arm  
