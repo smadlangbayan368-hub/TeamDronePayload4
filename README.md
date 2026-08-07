@@ -79,7 +79,7 @@ Sheryl
 Ezekiel Savage
   -  Designed and modeled triangle arm
   -  Fine tuned FEA results\
-    -  Wrote 'checkDroneArm.m' a program to perform quick FEAs
+    -  Wrote 'checkDroneArm.m' a program to perform quick FEAs  
     -  Perform sanity checks for FEA results  
    -  Writing report\
      -  Wrote section on triangle arm\
