@@ -62,8 +62,8 @@ Ryan Nguyen
   -  Wrote "BackupProgram.mlx" program
   -  Writing report\
     -  Wrote section on beam arm and cost analysis\
-    -  Formatting\
     -  Graphs and research of payloads  
+    -  Formatting  
 
 Sheryl
   -  Designed and modeled Circular Arm
@@ -73,7 +73,8 @@ Sheryl
     -  See "handCalculationExample.pdf" in Documentation
   -  Writing report\
     -  Wrote section on circular arm, goals and objectives, analysis, and conclusion\
-    -  Provided pictures/documentation of Circular Arm  
+    -  Provided pictures/documentation of Circular Arm
+    -  Formatting  
   
 
 Ezekiel Savage
