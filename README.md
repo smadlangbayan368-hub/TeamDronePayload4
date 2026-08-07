@@ -10,17 +10,17 @@ Design at least 2 drone arms that can carry a 0.5 Kg payload at minimum, has a 2
 # Project Details
 ## Assumptions 
 -  Initial drone weight = 1Kg  
-  - Composes the motors, propellors, electronics, main body, etc.) (Refer above for more details)  
+    -Composes the motors, propellors, electronics, main body, etc.) (Refer above for more details)  
 -  Thrust to Weight Ratio = 2:1 (This value is locked to this to ensure maximization of payload weight)  
 -  Factor of Safety >= 1.5 (Suggested by problem documentation. Also the standard)  
 
 ## Datasets  
 -  'droneArmMaterials.mat' (Given in Repo and loads the data of materials that were specified in the problem)  
 -  Drone arms (Given in repo.)  
-  - 'Circle_Arm.STL'   
-  - 'Triangle_ArmMOD.STL'  
-  - 'Beam_Arm.STL'  
-  - 'Lattice_ArmV2.STL'
+    -'Circle_Arm.STL'   
+    -'Triangle_ArmMOD.STL'  
+    -'Beam_Arm.STL'  
+    -'Lattice_ArmV2.STL'
 -  'BackupData.Mat'(For the backup program and not needed to run the main one)
   
 ## Approach
